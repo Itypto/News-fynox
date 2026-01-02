@@ -1,0 +1,60 @@
+{
+  "daily": [
+    {
+      "name": "Elmira",
+      "rarity": "Epic",
+      "price": 1500,
+      "image": "https://fortnite-api.com/images/cosmetics/br/cid_270_athena_commando_f_witch/icon.png"
+    },
+    {
+      "name": "Sash Sergeant",
+      "rarity": "Rare",
+      "price": 1200,
+      "image": "https://fortnite-api.com/images/cosmetics/br/cid_072_athena_commando_m_scout/icon.png"
+    },
+    {
+      "name": "Point It Out",
+      "rarity": "Rare",
+      "price": 500,
+      "image": "https://fortnite-api.com/images/cosmetics/br/eid_iceking/icon.png"
+    },
+    {
+      "name": "Flutterfrost",
+      "rarity": "Epic",
+      "price": 1500,
+      "image": "https://fortnite-api.com/images/cosmetics/br/bid_184_snowfairyfemale/icon.png"
+    },
+    {
+      "name": "Forerunner",
+      "rarity": "Rare",
+      "price": 800,
+      "image": "https://fortnite-api.com/images/cosmetics/br/glider_id_047_speedyred/icon.png"
+    },
+    {
+      "name": "Pulse Axe",
+      "rarity": "Rare",
+      "price": 800,
+      "image": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_012_district/icon.png"
+    }
+  ],
+  "featured": [
+    {
+      "name": "Dazzle",
+      "rarity": "Rare",
+      "price": 1200,
+      "image": "https://fortnite-api.com/images/cosmetics/br/cid_076_athena_commando_f_sup/icon.png"
+    },
+    {
+      "name": "Brainiac",
+      "rarity": "Uncommon",
+      "price": 800,
+      "image": "https://fortnite-api.com/images/cosmetics/br/cid_254_athena_commando_m_zombie/icon.png"
+    },
+    {
+      "name": "Electro Shuffle",
+      "rarity": "Epic",
+      "price": 800,
+      "image": "https://fortnite-api.com/images/cosmetics/br/eid_electroshuffle/icon.png"
+    }
+  ]
+}
