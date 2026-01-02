@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "V-Bucks Sale",
+    "image": "https://cdn2.unrealengine.com/14br-bundle-store-tile-1024x512-411301416.jpg",
+    "description": "Get 20% extra V-Bucks this weekend only! Limited time offer for all Fynox players.",
+    "date": "2024-05-20"
+  },
+  {
+    "id": 2,
+    "title": "New Season Out Now",
+    "image": "https://cdn2.unrealengine.com/bt-1024x512-1024x512-429995254.jpg",
+    "description": "Drop into the new map and explore the unknown. New battle pass items available in the shop.",
+    "date": "2024-05-19"
+  }
+]
