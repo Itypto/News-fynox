@@ -1,7 +1,7 @@
 [
   {
     "title": "Welcome to fynox on android",
-    "image": "https://raw.githubusercontent.com/Itypto/News-fynox/refs/heads/main/welcome.jpg",
+    "image": "https://raw.githubusercontent.com/Itypto/News-fynox/refs/heads/main/fynox.png",
     "shortDescription": "Reexperince Season 9 with Fynox",
     "longDescription": "welcome to Fynox",
     "date": "JANUARY 2026"
@@ -14,4 +14,5 @@
     "date": "JANUARY 2026"
   }
 ]
+
 
