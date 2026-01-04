@@ -1,16 +1,17 @@
 {
-  "latest_version": "v1.0.4",
-  "platform_info": "Windows 10 / 11 Supported",
+  "latest_version": "v1.0",
+  "platform_info": "Android",
   "downloads": [
     {
-      "title": "DOWNLOAD INSTALLER",
-      "url": "https://link1.com/file.exe",
+      "title": "Fynox-Fortnite APK",
+      "url": "",
       "size": "45.2 MB"
     },
     {
-      "title": "DOWNLOAD PORTABLE (ZIP)",
-      "url": "https://link2.com/file.zip",
-      "size": "40.1 MB"
+      "title": "",
+      "url": "",
+      "size": ""
     }
   ]
 }
+
