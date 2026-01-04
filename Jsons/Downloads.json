@@ -1,10 +1,16 @@
 {
   "latest_version": "v1.0",
   "platform_info": "Android",
+  "changelog": [
+    "Switched to https",
+    "Fixed matchmaking issues",
+    "Added new UI themes for the shop",
+    "More stable performance"
+  ],
   "downloads": [
     {
-      "title": "Fynox-Fortnite APK",
-      "url": "",
+      "title": "Fynox-Fortnite APK ",
+      "url": "https://example.com/full-version.apk",
       "size": "45.2 MB"
     },
     {
@@ -14,4 +20,3 @@
     }
   ]
 }
-
