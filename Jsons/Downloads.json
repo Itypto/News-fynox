@@ -2,10 +2,13 @@
   "latest_version": "v1.0",
   "platform_info": "Android",
   "changelog": [
+    "---Fortnite APK---",
     "Switched to https",
     "Fixed matchmaking issues",
     "Changed app name and app package name",
-    "More stable performance"
+    "More stable performance",
+    "---Fynox launcher---",
+    "First version"
   ],
   "downloads": [
     {
@@ -20,5 +23,6 @@
     }
   ]
 }
+
 
 
