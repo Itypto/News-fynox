@@ -8,12 +8,13 @@
   },
   {
     "title": "New Season Updates",
-    "image": "https://github.com/Itypto/News-fynox/blob/main/Images/tournument.png",
+    "image": "https://raw.githubusercontent.com/Itypto/News-fynox/refs/heads/main/Images/tournument.png",
     "shortDescription": "Discover what's new in the latest patch.",
     "longDescription": "Don't forget to check out the updates",
     "date": "JANUARY 2026"
   }
 ]
+
 
 
 
