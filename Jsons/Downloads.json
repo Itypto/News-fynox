@@ -4,7 +4,7 @@
   "changelog": [
     "Switched to https",
     "Fixed matchmaking issues",
-    "Added new UI themes for the shop",
+    "Changed app name and app package name",
     "More stable performance"
   ],
   "downloads": [
@@ -20,4 +20,5 @@
     }
   ]
 }
+
 
