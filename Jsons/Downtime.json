@@ -1,0 +1,8 @@
+{
+  "status": {
+    "server_up": false,
+    "maintenance_mode": true
+  },
+  "message": "We are currently performing scheduled maintenance to improve our systems. We expect to be back online by 4:00 PM EST.",
+  "error_code": "DOWNTIME_503"
+}
